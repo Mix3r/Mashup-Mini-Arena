@@ -16,7 +16,7 @@ cd code/game
 ```
 
 ## Links ##
-D
+You can download the latest release of Mashup Mini Arena from ModDb: https://www.moddb.com/games/mashup-mini-arena/downloads
 
 ## License ##
 
