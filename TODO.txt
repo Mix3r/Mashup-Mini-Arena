@@ -1,0 +1,2 @@
+SPECTATOR TEAMTASK for tournaments  (queue participant or just spec)
+FIXED CAMS for spectators
