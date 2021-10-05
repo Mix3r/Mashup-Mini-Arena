@@ -6,7 +6,7 @@ Most important changes in the code could be located by searching for commented t
 // Mix3r_Durachok
 or
 //Mix3r
-comment about the part of code usually follows after it.
+comment about the part of code usually follows after it. For example, cgame/cg_players.c is one of most modified files, as well as cg_draw.c too.
 
 ## Building ##
 Use corresponding .cmd files in "windows_scripts" folder to compile each of three qvm modules. For example "windows_compile_cgame.bat" compiles cgame.qvm and places it into windows/basema/vm folder
