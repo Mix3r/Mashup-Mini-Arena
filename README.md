@@ -1,5 +1,5 @@
 # Mashup Mini Arena gamecode
-Contains source code for all three qvm modules, based on both OpenArena and IoQuake3 (cgame.qvm  qagame.qvm  ui.qvm)
+Contains source code for all three qvm modules, based on both OpenArena and ioQuake 3 (cgame.qvm  qagame.qvm  ui.qvm)
 
 ## Description ##
 I'm a new to GitHub, i don't know what to do next.
