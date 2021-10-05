@@ -2,7 +2,11 @@
 Contains source code for all three qvm modules, based on both OpenArena and ioQuake 3 (cgame.qvm  qagame.qvm  ui.qvm)
 
 ## Description ##
-I'm a new to GitHub, i don't know what to do next.
+Most important changes in the code could be located by searching for commented tag:
+// Mix3r_Durachok
+or
+//Mix3r
+comment about the part of code usually follows after it.
 
 ## Building ##
 Use corresponding .cmd files in "windows_scripts" folder to compile each of three qvm modules. For example "windows_compile_cgame.bat" compiles cgame.qvm and places it into windows/basema/vm folder
