@@ -1,9 +1,11 @@
 # Mashup Mini Arena gamecode
+Contains source code for all three qvm modules, based on both OpenArena and IoQuake3 (cgame.qvm  qagame.qvm  ui.qvm)
 
 ## Description ##
-T
+I'm a new to GitHub, i don't know what to do next.
 
 ## Building ##
+Use corresponding .cmd files in "windows_scripts" folder to compile each of three qvm modules. For example "windows_compile_cgame.bat" compiles cgame.qvm and places it into windows/basema/vm folder
 
 ## Extracting entities ##
 It is possible to extract entity definition for use with GtkRadiant and NetRadiant like this:
